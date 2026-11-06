@@ -13,7 +13,3 @@ Năm section chọn để dựng khung:
 3. Tình huống sử dụng.
 4. Trồng cây ngoài đời.
 5. Câu hỏi thường gặp.
-
-CTA chính: Download, dẫn đến tải ứng dụng. Trong bài HTML, liên kết đưa về trang chính thức để chọn tải.
-
-Bản HTML rút gọn và diễn đạt lại bằng tiếng Việt; không sao chép toàn bộ trang.
